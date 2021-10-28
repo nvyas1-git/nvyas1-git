@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nvyas1-git
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @nvyas1-git, Nishit. I am Data Science Graduate student at University of Maryland, Baltimore County.
+- 👀 I’m interested in Data Science specially into the Machine Learning.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nvyas1@umbc.edu
